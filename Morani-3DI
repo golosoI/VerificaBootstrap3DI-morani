@@ -1,0 +1,276 @@
+
+
+<!doctype html>
+<html lang="en">
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+    <title>TFB</title>
+    <style media="screen">
+    .centrato {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 25%;
+}
+
+    </style>
+  </head>
+  <body>
+    <div class="container-fluid">
+<div class="row">
+  <div class="col-1">
+
+  </div>
+  <div class="col-10">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <a class="navbar-brand" href="#">papa slime</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarColor01">
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item active">
+          <a class="nav-link" href="https://k100ent.com/">merch ufficiale<span class="sr-only"></span></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="https://genius.com/albums/Papa-v/Trap-fatta-bene">tracklist</a>
+        </li>
+      </ul>
+      <form class="form-inline">
+        <button class="btn btn-outline-info my-2 my-sm-0" type="submit" href="https://k100ent.com/">area responsabili</button>
+      </form>
+    </div>
+  </nav>
+<br>
+<header>
+  <h1 style="text-align:center;">TRAP FATTA BENE</h1>
+  <p style="text-align:center;">  Una dimensione iper collettiva, in cui tutto funziona proprio grazie all’unione che c’è tra di loro e a una visione fortemente identitaria – nei suoni e nell’estetica – comune. «Questo è esattamente quello che vogliamo: esprimere la nostra identità e farlo senza filtri», mi racconta Klaudiu, il manager di Papa V, «questo è quello che siamo, piaccia o non piaccia. Siamo noi al 100%». «E poi la nostra è una musica collettiva», aggiunge Fritu, «Papa ci mette la faccia, quindi alla fine il progetto è suo», «Sì, ma senza di loro non potrei fare tutte queste cose» </p>
+          <div class="centrato">
+              <button type="button" class="btn btn-outline-primary" >scopri ora!</button>
+          </div>
+
+</header>
+
+<hr>
+
+<div class="centrato">
+  <div class="card-group">
+    <div class="card" style="max-width: 400px; max-height:600px;" >
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/60/1e/40/601e4043-64bd-91a1-65a8-63e019de147a/196871932196.jpg/1200x1200bf-60.jpg" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">non la sopporto-(track n*5)</h5>
+      <p class="card-text">Tra ritmi catchy e liriche ironiche e provocatorie, i due rappano un pezzo con uno stile che li rende riconoscibili tra gli artisti della nuova scena.</p>
+
+        <div class="centrato">
+           <button class="btn btn-outline-info my-2 my-sm-0" type="submit" href="https://www.youtube.com/watch?v=5dOIjSnFdBk">ascoltala ora</button>
+        </div>
+      </div>
+
+    </div>
+
+    <div class="card" style="max-width: 400px; max-height:600px;" >
+      <img src="https://cdn.zero.eu/uploads/2023/11/2a9889716ae0e4281306a39397dfcd49.1000x1000x1-e1700733813444.png" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">papa v</h5>
+        <p class="card-text">Testi taglienti, sporchi e dissacranti, un’introspezione cruda e sincera, la “Trap fatta bene” che piace ai maranza, ai figli di papà in camicia e pure alle clean girl</p>
+        <div class="centrato">
+           <button class="btn btn-outline-info my-2 my-sm-0" type="submit" href="https://billboard.it/interviste/papa-v-trap-fatta-bene-nuovo-album-intervista/2024/04/20158511/">leggi l'intervista</button>
+        </div>
+      </div>
+
+    </div>
+
+    <div class="card" style="max-width: 400px; max-height:600px;" >
+      <img src="https://images.genius.com/5afb62f6afe02c0037d22dd9900a1391.640x640x1.jpg" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">mattone-(track n*4)</h5>
+        <p class="card-text">il banger di papa, nerissima e kuremino. può considerarsi un trampolino di lancio per l'artista </p>
+        <div class="centrato">
+   <button class="btn btn-outline-info my-2 my-sm-0" type="submit" href="   https://www.youtube.com/watch?v=sBkCxWjTA6g">ascolta ora!</button>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<hr><br>
+<div class="row justify-content-md-center">
+    <div class="col col-lg-6">
+E così, session dopo session vengono fuori i primi pezzi, nel 2021 Mafia Slime e nel 2022 Gesù Bambino. Due album fatti bene, ma che all’epoca non hanno avuto l’attenzione che meritavano da parte del grande pubblico, che solo nell’ultimo anno sembra essersi reso conto che c’è una nuova generazione che rappa come i grandi, che è pronta a spaccare per davvero e che non può essere ignorata. «Sicuramente adesso c’è un’attenzione in più», concorda Papa V, «ma anche ai tempi di Mafia Slime comunque c’erano già dei fan che si erano presi bene e che dicevano “Caz*o, bella sta roba”. Ora però è diverso, vedo che la gente mi sta capendo».
+    </div>
+
+    <div class="col col-lg-6">
+E tutto senza scendere a compromessi con qualcosa di più masticabile, ma rimanendo nei testi estremamente crudo, tagliente e dissacrante. «Non ho mai pensato di cambiare il mio stile», mi dice Papa V quando gli faccio notare che in Trap Fatta Bene rimane sempre fedele a se stesso. «Se io faccio una cosa e riceve consensi perché dovrei fare una roba diversa? Se la roba va è perché la gente vuole ascoltare questo».    </div>
+  </div>
+<br><br>
+<!-- tabella -->
+
+      <div class="row">
+        <div class="col-sm-4">
+          <ul class="list-group">
+      <li class="list-group-item"><a href="https://www.youtube.com/watch?v=Q3q9wTxklD4&list=PLjmwl8raxEZ3SiNgx347Bx89oIIvbar3g&index=1">x i ragazzini in strada</a></li>
+      <li class="list-group-item"><a href="https://www.youtube.com/watch?v=-sBjWyCmvJQ&list=PLjmwl8raxEZ3SiNgx347Bx89oIIvbar3g&index=2">pezzi che cadono-(ft.Tony Boy)</a></li>
+      <li class="list-group-item"><a href="https://www.youtube.com/watch?v=HfO02yigbUA&list=PLjmwl8raxEZ3SiNgx347Bx89oIIvbar3g&index=3">tommaso</a></li>
+    </ul>
+        </div>
+        <div class="col-sm-4">
+          <ul class="list-group">
+      <li class="list-group-item"><a href="https://www.youtube.com/watch?v=vaCWFB6zjGQ&list=PLjmwl8raxEZ3SiNgx347Bx89oIIvbar3g&index=5">insieme da una vita</a></li>
+      <li class="list-group-item"><a href="https://www.youtube.com/watch?v=AU8x-S_Prb0&list=PLjmwl8raxEZ3SiNgx347Bx89oIIvbar3g&index=7">budapest</a></li>
+      <li class="list-group-item"><a href="https://www.youtube.com/watch?v=wBkFcpuXGXc&list=PLjmwl8raxEZ3SiNgx347Bx89oIIvbar3g&index=8">frank lukas-(ft.Rasty Kilo)</a></li>
+    </ul>
+        </div>
+        <div class="col-sm-4">
+          <ul class="list-group">
+      <li class="list-group-item"><a href="https://www.youtube.com/watch?v=GGuTUXYg2Ak&list=PLjmwl8raxEZ3SiNgx347Bx89oIIvbar3g&index=9">minigolf</a></li>
+      <li class="list-group-item"><a href="https://www.youtube.com/watch?v=mhW29RJmDGU&list=PLjmwl8raxEZ3SiNgx347Bx89oIIvbar3g&index=10">walter white</a></li>
+      <li class="list-group-item"><a href="https://www.youtube.com/watch?v=4vmv8jQl-cI&list=PLjmwl8raxEZ3SiNgx347Bx89oIIvbar3g&index=11">responsabile-(ft.Nerissima Serpe)</a></li>
+    </ul>
+        </div>
+
+      </div>
+<br><br>
+  <div class="row">
+      <div class="col-12">
+        <div class="card-group">
+          <div class="card text-center" style="width: 18rem;">
+          <div class="card-body">
+            <h5 class="card-title">nerissima serpe</h5>
+            <p class="card-text">non mancano mai specie animali nei suoi pezzi</p>
+            <a href="https://www.redbull.com/it-it/chi-e-nerissima-serpe" class="btn btn-primary">biografia</a>
+          </div>
+        </div>
+        <div class="card text-center" style="width: 18rem;">
+          <div class="card-body">
+            <h5 class="card-title">artie 5ive</h5>
+            <p class="card-text">artie ha un influenza americana</p>
+            <a href="https://www.bohmagazine.it/artie-5ive/" class="btn btn-primary">biografia</a>
+          </div>
+        </div>
+        <div class="card text-center" style="width: 18rem;">
+          <div class="card-body">
+            <h5 class="card-title">tony boy</h5>
+            <p class="card-text">rimastone ma ha una rappata molto conscious</p>
+            <a href="https://it.wikipedia.org/wiki/Tony_Boy_(rapper)" class="btn btn-primary">biografia</a>
+          </div>
+        </div>
+        <div class="card text-center" style="width: 18rem;">
+          <div class="card-body">
+            <h5 class="card-title">papa v</h5>
+            <p class="card-text">ha appena rilasciato l'album</p>
+            <a href="#" class="btn btn-primary">torna su</a>
+          </div>
+        </div>
+        </div>
+        <div class="card-group">
+          <div class="card text-center" style="width: 18rem;">
+          <div class="card-body">
+            <h5 class="card-title">low red</h5>
+            <p class="card-text">emergente sardo con una voce molto particolare</p>
+            <a href="https://www.rockit.it/low-red/biografia" class="btn btn-primary">biografia</a>
+          </div>
+        </div>
+        <div class="card text-center" style="width: 18rem;">
+          <div class="card-body">
+            <h5 class="card-title">digital astro</h5>
+            <p class="card-text">si deve ancora affermare nella scena, ma merita molto</p>
+            <a href="https://raphaolic.com/2022/06/03/digital-astro-lastro-nascente-cantera-ghali-peter-parker/" class="btn btn-primary">biografia</a>
+          </div>
+        </div>
+        <div class="card text-center" style="width: 18rem;">
+          <div class="card-body">
+            <h5 class="card-title">kid yugi </h5>
+            <p class="card-text">il più affermato nella scena insieme ad artie</p>
+            <a href="https://www.fabriquemilano.it/live/kid-yugi/" class="btn btn-primary"> biografia</a>
+          </div>
+        </div>
+        <div class="card text-center" style="width: 18rem;">
+          <div class="card-body">
+            <h5 class="card-title">night skinny</h5>
+            <p class="card-text">il producer che gli ha accolti tutti sotto la sua ala</p>
+            <a href="https://it.wikipedia.org/wiki/The_Night_Skinny" class="btn btn-primary">biografia</a>
+          </div>
+        </div>
+        </div>
+      </div>
+
+    </div>
+<br>
+<hr>
+<br><br>
+
+<div class="row">
+      <div class="col">
+        <h1>Categorie</h1>
+        <ul class="list-group">
+          <li class="list-group-item">slime</li>
+          <li class="list-group-item">apparecchiato</li>
+          <li class="list-group-item">responsabile</li>
+        </ul>
+      </div>
+      <div class="col-6">
+        <h1>Ultima traccia</h1>
+        <div class="card">
+          <div class="card-body">
+            <h5 class="card-title">Franco Campanino </h5>
+            <p class="card-text">traccia finale del album</p>
+            <a href="https://www.youtube.com/watch?v=QlyBjeZ27i8" class="btn btn-primary">ascoltalo ora</a>
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <h1>traccia top</h1>
+        <div class="card">
+          <div class="card-body">
+             <h5 class="card-title">apparecchiato</h5>
+             <p class="card-text">canzone di decollo di papa v</p>
+             <a href="https://www.youtube.com/watch?v=zM8ztZxD08s" class="btn btn-primary">ascoltala ora</a>
+          </div>
+        </div>
+      </div>
+</div>
+<br><hr><br><br>
+
+
+<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="https://i1.sndcdn.com/artworks-QbC5CnjdWVjPRyi7-P4KqjA-t500x500.jpg" class="d-block w-100"alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="https://i.ytimg.com/vi/4vmv8jQl-cI/maxresdefault.jpg" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="https://filepicker-images.genius.com/9evsmqcvajf" class="d-block w-100" alt="...">
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+  </div>
+  <div class="col-1">
+
+  </div>
+
+</div>
+
+</div>
+
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.7/dist/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+  </body>
+</html>
